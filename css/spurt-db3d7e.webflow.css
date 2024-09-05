@@ -794,6 +794,12 @@ figcaption {
   background-size: cover;
 }
 
+.hero-image.image-9 {
+  background-image: url('../images/qr_scan_3.jpg');
+  background-size: cover;
+  
+}
+
 .hero-image.licensing {
   background-image: url('../images/rawpixel-592442-unsplash.jpg');
   background-position: 50%;
@@ -3284,6 +3290,10 @@ figcaption {
     height: 60vh;
   }
 
+  /* .hero-image.image-9 {
+    height: 60vh;
+  } */
+
   .hero-gradient {
     background-image: linear-gradient(to bottom, rgba(21, 21, 21, .4) 30%, var(--dark) 70%);
   }
@@ -4325,7 +4335,7 @@ figcaption {
   }
 
   .hero-image {
-    height: 50vh;
+    height: 60vh;
     min-height: 360px;
   }
 
