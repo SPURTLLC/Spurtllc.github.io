@@ -1027,19 +1027,19 @@ figcaption {
 }
 
 .social-icon.twitter:hover {
-  background-color: #2aa3f0;
+  background-color: #000000;
 }
 
 .social-icon.facebook:hover {
-  background-color: #3b5998;
+  background-color: #ff0000;
 }
 
 .social-icon.instagram:hover {
-  background-color: var(--main);
+  background-color: #833AB4;
 }
 
 .social-icon.pinterest:hover {
-  background-color: #f83f5a;
+  background-color: #833AB4;
 }
 
 .footer-link {
@@ -1380,11 +1380,11 @@ figcaption {
 }
 
 .side-social-button.twitter:hover {
-  background-color: #2aa3f0;
+  background-color: #000000;
 }
 
 .side-social-button.facebook:hover {
-  background-color: #3b5998;
+  background-color: #ff0000;
 }
 
 .side-social-button.mail:hover {
@@ -1392,7 +1392,7 @@ figcaption {
 }
 
 .side-social-button.pinterest:hover {
-  background-color: #f83f5a;
+  background-color: #833AB4;
 }
 
 .side-social-icon {
@@ -1414,11 +1414,11 @@ figcaption {
 }
 
 .social-card-v1.twitter {
-  background-color: #2aa3f0;
+  background-color: #000000;
 }
 
 .social-card-v1.facebook {
-  background-color: #3b5998;
+  background-color: #ff0000;
 }
 
 .subscribe-v3-form {
@@ -1560,11 +1560,11 @@ figcaption {
 }
 
 .social-card-v2.twitter:hover {
-  background-color: #2aa3f0;
+  background-color: #000000;
 }
 
 .social-card-v2.facebook:hover {
-  background-color: #3b5998;
+  background-color: #ff0000
 }
 
 .social-card-v2.pinterest:hover {
