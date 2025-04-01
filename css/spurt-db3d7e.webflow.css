@@ -13,6 +13,10 @@
   --main-2: #1b88ff;
 }
 
+.VIpgJd-ZVi9od-ORHb-OEVmcd {
+  display: none; 
+}
+
 .w-pagination-wrapper {
   flex-wrap: wrap;
   justify-content: center;
@@ -64,6 +68,8 @@ body {
   font-family: Hind, sans-serif;
   font-size: 14px;
   line-height: 20px;
+  top: 0px !important;
+  position: static !important;
 }
 
 h1 {
