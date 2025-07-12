@@ -2973,7 +2973,7 @@ figcaption {
   flex-direction: column;
   width: 100%;
   height: auto;
-  max-height: 26vw;
+  max-height: 50vw;
   margin-top: 8%;
   text-decoration: none;
   transition: transform .8s cubic-bezier(.215, .61, .355, 1);
